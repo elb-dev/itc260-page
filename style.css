@@ -1,0 +1,35 @@
+* {
+	border: 0;
+	margin: 0px;
+	padding: 0;
+	text-align: center;
+	color: #f7f7f7;
+}
+
+html {
+	background-color: #1f1f1f;
+}
+
+body {
+	height: 100%;
+	justify-content: center;
+}
+
+main {
+	max-width: 700px;
+}
+
+p, h3, a{
+	margin-top: 0.1em;
+	margin-bottom: 0.1em;
+}
+
+.gap {
+	margin-bottom: 2em;
+}
+
+.flex-container {
+	display: flex;
+	flex-direction: column;
+	align-items: center;
+}
